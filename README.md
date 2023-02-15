@@ -7,6 +7,8 @@ This project is designed to test your knowledge of the PHP language, and assess 
 Here you will find instructions on how to complete the API portion of the tech test. Please follow the setup instructions to get the API up and running.
 
 ## Setup Instructions
+This setup assumes that you have a development environment that is capable of running Docker, a terminal, and knowledge
+on how to use the terminal.
 
 1. Fork this repository so that you have your own version in your GitLab account
   * Make sure that you mark your repository as public so that we can review it
